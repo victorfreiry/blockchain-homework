@@ -1,3 +1,6 @@
+Case Study Proposal: Stablecorp
+
+
 What Is It
 
 Stablecorp was founded by 3iQ, Canada’s leading crypto asset manager, and Mavennet, a recognized leader in the blockchain development space. Stablecorp is a leading Canadian fintech firm building bank-grade blockchain technology. QCAD was Stablecorp's first product release and was the first ever major Canadian-dollar stablecoin designed for the mass market. In February 2021, Stablecorp entered into a strategic partnership with VersaBank, an A-rated Canadian Schedule I bank, to develop VCAD.
