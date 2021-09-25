@@ -31,10 +31,13 @@ Your private PoA blockchain should now be running!
 
 With both nodes up and running, the blockchain can be added to MyCrypto for testing.
 
-Open the MyCrypto app, then click Change Network at the bottom left:
+*Open the MyCrypto app, then click Change Network at the bottom left:*
 change network
+![alt text](https://github.com/victorlfreire/blockchain-homework/blob/main/POA%20Development%20Chain/images/change%20netwrok.PNG)
 
-Click "Add Custom Node", then add the custom network information that you set in the genesis.
+*Click "Add Custom Node", then add the custom network information that you set in the genesis.*
+
+![alt text](https://github.com/victorlfreire/blockchain-homework/blob/main/POA%20Development%20Chain/images/Add%20custom%20node.PNG)
 
 Make sure that you scroll down to choose Custom in the "Network" column to reveal more options like Chain ID:
 
