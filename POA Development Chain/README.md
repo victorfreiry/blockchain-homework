@@ -69,6 +69,8 @@ transaction send
 
 Confirm the transaction by clicking "Send Transaction", and the "Send" button in the pop-up window.
 Send transaction
+![alt text](https://github.com/victorlfreire/blockchain-homework/blob/main/POA%20Development%20Chain/images/confirmation.PNG)
+
 
 Click the Check TX Status when the green message pops up, confirm the logout:
 check tx
@@ -76,5 +78,6 @@ check tx
 You should see the transaction go from Pending to Successful in around the same blocktime you set in the genesis.
 
 You can click the Check TX Status button to update the status.
+![alt text](https://github.com/victorlfreire/blockchain-homework/blob/main/POA%20Development%20Chain/images/check%20tx.PNG)
 
 successful transaction
