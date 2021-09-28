@@ -22,6 +22,8 @@ Using geth, initialize each node with the new networkname.json.
 ./geth --datadir node2 init networkname.json
 Now the nodes can be used to begin mining blocks.
 
+NOTE: Make sure to get your enode address in the lines after running Node 1.
+
 Run the nodes in separate terminal windows with the commands:
 ./geth --datadir node1 --unlock "SEALER_ONE_ADDRESS" --mine --rpc --allow-insecure-unlock
 ./geth --datadir node2 --unlock "SEALER_TWO_ADDRESS" --mine --port 30304 --bootnodes "enode://SEALER_ONE_ENODE_ADDRESS@127.0.0.1:30303" --ipcdisable --allow-insecure-unlock
@@ -29,9 +31,9 @@ Run the nodes in separate terminal windows with the commands:
 NOTE: Type your password and hit enter - even if you can't see it visually!
 Your private PoA blockchain should now be running!
 
-With both nodes up and running, the blockchain can be added to MyCrypto for testing.
+NOTE: Nodes are now up and running, the blockchain can be added to MyCrypto wallet for trial.
 
-*Open the MyCrypto app, then click Change Network at the bottom left:*
+*Open the MyCrypto wallet, then click Change Network at the bottom left:*
 change network
 ![alt text](https://github.com/victorlfreire/blockchain-homework/blob/main/POA%20Development%20Chain/images/change%20netwrok.PNG)
 
@@ -41,13 +43,10 @@ change network
 
 Make sure that you scroll down to choose Custom in the "Network" column to reveal more options like Chain ID:
 
-custom network
-
-Type ETH in the Currency box.
-
-In the Chain ID box, type the chain id you generated during genesis creation.
-
-In the URL box type: http://127.0.0.1:8545. This points to the default RPC port on your local machine.
+1- Custom network
+2- Type ETH in the Currency box.
+3- In the Chain ID box, type the chain id you generated during genesis creation.
+4- In the URL box type: http://127.0.0.1:8545. This points to the default RPC port on your local machine.
 
 Finally, click Save & Use Custom Node.
 
@@ -56,11 +55,11 @@ After connecting to the custom network in MyCrypto, it can be tested by sending 
 Select the View & Send option from the left menu pane, then click Keystore file.
 select_keystore_file
 
-On the next screen, click Select Wallet File, then navigate to the keystore directory inside your Node1 directory, select the file located there, provide your password when prompted and then click Unlock.
+On the next screen, click Select Wallet File, then navigate to the keystore directory inside your Node 1 directory, select the file located there, provide your password when prompted and then click Unlock.
 
 This will open your account wallet inside MyCrypto.
 
-Testnets usually fund a lot of ETH into accounts, you will most likely never need to use a faucet to fund more test ETH to your acount.
+NOTE: Testnets usually fund a lot of ETH into accounts, you will most likely never need to use a faucet to fund more test ETH to your acount.
 
 keystore_unlock
 
