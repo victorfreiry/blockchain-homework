@@ -9,17 +9,5 @@ Stablecorp was founded by 3iQ, Canada’s leading crypto asset manager, and Mave
 
 Mavennet is a venture studio and consulting organization with deep expertise in blockchain and AI technologies. Mavennet has more than 4 years of history working in the financial industry as well as the physical economy & commodities with clients such as Canadian banks, TMX, the Canadian government and US Homeland Security. Why This Matters In traditional financial markets, new companies or start-ups usually go through private venture capital channels to raise capital, while more established companies may instead undergo an initial public offering (IPO) to raise capital from investors via the public markets. In contrast, TokenFunder's vision of creating a digital securities marketplace allows both retail investors and institutional investors alike to invest in start-up companies via digital tokens that can also be traded amongst other investors. Therefore, TokenFunder's vision will help to increase start up companies' ability to raise capital from the everyday investor as well as bolster investors' ability to invest in new companies that they may not have been able to before.
 
-Why This May be Interesting This could be very interesting in case canadians want to start using DEFI with a CAD stable coin.
+This could be very interesting in case canadians want to start using DEFI with a CAD stable coins, there is a significant higher yield available in Defi for stable coins and this could be just the beggining for Canadians to become more and more bankless.
 
-About
-No description, website, or topics provided.
-Topics
-Resources
- Readme
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-© 2021 GitHub, Inc.
